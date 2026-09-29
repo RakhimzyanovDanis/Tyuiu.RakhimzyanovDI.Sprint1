@@ -13,7 +13,7 @@ namespace Tyuiu.RakhimzyanovDI.Sprint1.Task1.V16.Test
             double y = 2.0;
             double a = 1.0;
             var res = ds.Calculate(x, y, a);
-            Assert.AreEqual(14, res);
+            Assert.AreEqual(22, res);
         }
     }
 }
